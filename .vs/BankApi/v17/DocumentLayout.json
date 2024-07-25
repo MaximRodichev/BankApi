@@ -1,0 +1,1056 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\pages\\views\\billview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\pages\\operations.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\pages\\views\\cardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\httpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\pages\\mainprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\bankapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\pages\\operations.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\pages\\bills.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\mobileapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.95\\tools\\Xamarin.Android.Common.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\bankapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\bankapi\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\bankapi\\models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|solutionrelative:models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\bankapi\\models\\dto\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|solutionrelative:models\\dto\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\pages\\bills.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\pages\\cards.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\pages\\container.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\bankapi\\controllers\\kurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|solutionrelative:controllers\\kurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\resources\\appicon\\appicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\resources\\appicon\\appiconfg.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\bankapi\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|solutionrelative:controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\bankapi\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|solutionrelative:controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\pages\\models\\dto\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\pages\\models\\usermodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\pages\\models\\billviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\pages\\container.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\pages\\dialogues\\dialoguecard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\pages\\dialogues\\dialoguecard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\pages\\views\\cardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\pages\\views\\billview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\pages\\mainprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\bankapi\\models\\billmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|solutionrelative:models\\billmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\pages\\cards.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\bankapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\bankapi\\entityframework\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|solutionrelative:entityframework\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\pages\\models\\dto\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\bankapi\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|solutionrelative:controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\pages\\models\\transactionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\bankapi\\models\\transactionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|solutionrelative:models\\transactionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\bankapi\\entityframework\\transactiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|solutionrelative:entityframework\\transactiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\bankapi\\entityframework\\carddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|solutionrelative:entityframework\\carddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\bankapi\\repository\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|solutionrelative:repository\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\bankapi\\models\\cardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|solutionrelative:models\\cardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\bankapi\\repository\\billrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|solutionrelative:repository\\billrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\bankapi\\models\\dto\\carddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|solutionrelative:models\\dto\\carddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\pages\\models\\dto\\carddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\pages\\models\\dto\\billdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\pages\\models\\cardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\bankapi\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|solutionrelative:models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\bankapi\\bankapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BEAF00BD-37B8-48E1-A38E-7667A4FDA2E5}|BankApi.csproj|solutionrelative:bankapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hi-tech\\AppData\\Local\\Temp\\.vsdbgsrc\\42b444f7117f8550a41dc41952f88e2475a4256e\\Pages_Cards.xaml.sg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hi-tech\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\8.0.21\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2392D514-768E-465F-B181-7A9D8B98BACB}|..\\MobileApp\\MobileApp.csproj|c:\\users\\hi-tech\\documents\\shyagaprogrammnaya\\globalprojects\\mobileapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hi-tech\\AppData\\Local\\Temp\\.vsdbgsrc\\61ecd033d598386df80eb99872165ace195ee7b1\\Pages_MainProfile.xaml.sg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 230,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CardView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Views\\CardView.xaml.cs",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Pages\\Views\\CardView.xaml.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Views\\CardView.xaml.cs",
+              "RelativeToolTip": "..\\MobileApp\\Pages\\Views\\CardView.xaml.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowDwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:25:32.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\MobileApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "..\\MobileApp\\MainPage.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswDQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:58:51.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BillView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Views\\BillView.xaml.cs",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Pages\\Views\\BillView.xaml.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Views\\BillView.xaml.cs",
+              "RelativeToolTip": "..\\MobileApp\\Pages\\Views\\BillView.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T02:19:18.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Operations.xaml",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Operations.xaml",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Pages\\Operations.xaml",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Operations.xaml",
+              "RelativeToolTip": "..\\MobileApp\\Pages\\Operations.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T02:48:50.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HTTPClient.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\HTTPClient.cs",
+              "RelativeDocumentMoniker": "..\\MobileApp\\HTTPClient.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\HTTPClient.cs",
+              "RelativeToolTip": "..\\MobileApp\\HTTPClient.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T22:17:08.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:34:20.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operations.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Operations.xaml.cs",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Pages\\Operations.xaml.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Operations.xaml.cs",
+              "RelativeToolTip": "..\\MobileApp\\Pages\\Operations.xaml.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAvwHcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:51:38.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainProfile.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\MainProfile.xaml.cs",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Pages\\MainProfile.xaml.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\MainProfile.xaml.cs",
+              "RelativeToolTip": "..\\MobileApp\\Pages\\MainProfile.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCwAAADnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T00:05:53.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "..\\MobileApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\MainPage.xaml",
+              "RelativeToolTip": "..\\MobileApp\\MainPage.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T19:56:53.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bills.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Bills.xaml.cs",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Pages\\Bills.xaml.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Bills.xaml.cs",
+              "RelativeToolTip": "..\\MobileApp\\Pages\\Bills.xaml.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAhwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T01:40:37.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAewKgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T22:37:15.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MobileApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\MobileApp.csproj",
+              "RelativeDocumentMoniker": "..\\MobileApp\\MobileApp.csproj",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\MobileApp.csproj",
+              "RelativeToolTip": "..\\MobileApp\\MobileApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-10T02:16:03.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Xamarin.Android.Common.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.95\\tools\\Xamarin.Android.Common.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.95\\tools\\Xamarin.Android.Common.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.95\\tools\\Xamarin.Android.Common.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.95\\tools\\Xamarin.Android.Common.targets",
+              "ViewState": "AQIAAE4BAAAAAAAAAAApwGQCAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-09T22:56:41.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:53:13.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Models\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Models\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:03:01.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PaymentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Models\\DTO\\PaymentDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\PaymentDTO.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Models\\DTO\\PaymentDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\PaymentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T22:40:19.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Cards.xaml",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Cards.xaml",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Pages\\Cards.xaml",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Cards.xaml",
+              "RelativeToolTip": "..\\MobileApp\\Pages\\Cards.xaml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwDYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T22:57:33.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appicon.svg",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Resources\\AppIcon\\appicon.svg",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Resources\\AppIcon\\appicon.svg",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Resources\\AppIcon\\appicon.svg",
+              "RelativeToolTip": "..\\MobileApp\\Resources\\AppIcon\\appicon.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-06-18T02:03:16.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "KursController.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Controllers\\KursController.cs",
+              "RelativeDocumentMoniker": "Controllers\\KursController.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Controllers\\KursController.cs",
+              "RelativeToolTip": "Controllers\\KursController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:50:56.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "Controllers\\TransactionController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwBgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T22:59:49.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Bills.xaml",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Bills.xaml",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Pages\\Bills.xaml",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Bills.xaml",
+              "RelativeToolTip": "..\\MobileApp\\Pages\\Bills.xaml",
+              "ViewState": "AQIAACQAAAAAAAAAAIBJwDIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T01:40:03.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Container.xaml",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Container.xaml",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Pages\\Container.xaml",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Container.xaml",
+              "RelativeToolTip": "..\\MobileApp\\Pages\\Container.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T00:03:23.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appiconfg.svg",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Resources\\AppIcon\\appiconfg.svg",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Resources\\AppIcon\\appiconfg.svg",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Resources\\AppIcon\\appiconfg.svg",
+              "RelativeToolTip": "..\\MobileApp\\Resources\\AppIcon\\appiconfg.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-06-18T02:03:18.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BillViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Models\\BillViewModel.cs",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Pages\\Models\\BillViewModel.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Models\\BillViewModel.cs",
+              "RelativeToolTip": "..\\MobileApp\\Pages\\Models\\BillViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T01:46:08.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Controllers\\CardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CardController.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Controllers\\CardController.cs",
+              "RelativeToolTip": "Controllers\\CardController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwFAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:16:31.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Models\\LoginModel.cs",
+              "RelativeToolTip": "..\\MobileApp\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvwsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T21:04:23.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserModelView.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Models\\UserModelView.cs",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Pages\\Models\\UserModelView.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Models\\UserModelView.cs",
+              "RelativeToolTip": "..\\MobileApp\\Pages\\Models\\UserModelView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T00:17:43.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PaymentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Models\\DTO\\PaymentDTO.cs",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Pages\\Models\\DTO\\PaymentDTO.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Models\\DTO\\PaymentDTO.cs",
+              "RelativeToolTip": "..\\MobileApp\\Pages\\Models\\DTO\\PaymentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T22:27:02.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Models\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Models\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Models\\LoginResponse.cs",
+              "RelativeToolTip": "..\\MobileApp\\Models\\LoginResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T22:34:00.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Container.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Container.xaml.cs",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Pages\\Container.xaml.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Container.xaml.cs",
+              "RelativeToolTip": "..\\MobileApp\\Pages\\Container.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T00:06:01.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DialogueCard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Dialogues\\DialogueCard.xaml.cs",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Pages\\Dialogues\\DialogueCard.xaml.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Dialogues\\DialogueCard.xaml.cs",
+              "RelativeToolTip": "..\\MobileApp\\Pages\\Dialogues\\DialogueCard.xaml.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwD0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:40:19.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "..\\MobileApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\App.xaml.cs",
+              "RelativeToolTip": "..\\MobileApp\\App.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T20:02:33.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DialogueCard.xaml",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Dialogues\\DialogueCard.xaml",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Pages\\Dialogues\\DialogueCard.xaml",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Dialogues\\DialogueCard.xaml",
+              "RelativeToolTip": "..\\MobileApp\\Pages\\Dialogues\\DialogueCard.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T12:35:51.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BillView.xaml",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Views\\BillView.xaml",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Pages\\Views\\BillView.xaml",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Views\\BillView.xaml",
+              "RelativeToolTip": "..\\MobileApp\\Pages\\Views\\BillView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T02:18:54.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CardView.xaml",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Views\\CardView.xaml",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Pages\\Views\\CardView.xaml",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Views\\CardView.xaml",
+              "RelativeToolTip": "..\\MobileApp\\Pages\\Views\\CardView.xaml",
+              "ViewState": "AQIAABIAAAAAAAAAAIBJwCYAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T22:58:56.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MainProfile.xaml",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\MainProfile.xaml",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Pages\\MainProfile.xaml",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\MainProfile.xaml",
+              "RelativeToolTip": "..\\MobileApp\\Pages\\MainProfile.xaml",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwEMAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T00:05:07.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BillModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Models\\BillModel.cs",
+              "RelativeDocumentMoniker": "Models\\BillModel.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Models\\BillModel.cs",
+              "RelativeToolTip": "Models\\BillModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T23:12:22.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Cards.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Cards.xaml.cs",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Pages\\Cards.xaml.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Cards.xaml.cs",
+              "RelativeToolTip": "..\\MobileApp\\Pages\\Cards.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:46:03.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RegisterPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\RegisterPage.xaml",
+              "RelativeDocumentMoniker": "..\\MobileApp\\RegisterPage.xaml",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\RegisterPage.xaml",
+              "RelativeToolTip": "..\\MobileApp\\RegisterPage.xaml",
+              "ViewState": "AQIAADsAAAAAAAAAAAAmwEUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T21:15:17.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\EntityFramework\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\UserDbContext.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\EntityFramework\\UserDbContext.cs",
+              "RelativeToolTip": "EntityFramework\\UserDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:30:58.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T22:29:30.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RegisterPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\RegisterPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\MobileApp\\RegisterPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\RegisterPage.xaml.cs",
+              "RelativeToolTip": "..\\MobileApp\\RegisterPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T21:15:25.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TransactionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Models\\DTO\\TransactionDTO.cs",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Pages\\Models\\DTO\\TransactionDTO.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Models\\DTO\\TransactionDTO.cs",
+              "RelativeToolTip": "..\\MobileApp\\Pages\\Models\\DTO\\TransactionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T23:04:36.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BillController.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Controllers\\BillController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BillController.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Controllers\\BillController.cs",
+              "RelativeToolTip": "Controllers\\BillController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAEBVwB4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:03:29.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TransactionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Models\\TransactionViewModel.cs",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Pages\\Models\\TransactionViewModel.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Models\\TransactionViewModel.cs",
+              "RelativeToolTip": "..\\MobileApp\\Pages\\Models\\TransactionViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T01:21:27.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "TransactionModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Models\\TransactionModel.cs",
+              "RelativeDocumentMoniker": "Models\\TransactionModel.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Models\\TransactionModel.cs",
+              "RelativeToolTip": "Models\\TransactionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T23:01:26.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TransactionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\EntityFramework\\TransactionDbContext.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\TransactionDbContext.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\EntityFramework\\TransactionDbContext.cs",
+              "RelativeToolTip": "EntityFramework\\TransactionDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T22:51:35.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CardDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\EntityFramework\\CardDbContext.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\CardDbContext.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\EntityFramework\\CardDbContext.cs",
+              "RelativeToolTip": "EntityFramework\\CardDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T21:17:48.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Repository\\CardRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CardRepository.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Repository\\CardRepository.cs",
+              "RelativeToolTip": "Repository\\CardRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:46:16.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CardModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Models\\CardModel.cs",
+              "RelativeDocumentMoniker": "Models\\CardModel.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Models\\CardModel.cs",
+              "RelativeToolTip": "Models\\CardModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:37:41.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "BillRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Repository\\BillRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\BillRepository.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Repository\\BillRepository.cs",
+              "RelativeToolTip": "Repository\\BillRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:04:09.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CardDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Models\\DTO\\CardDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\CardDTO.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Models\\DTO\\CardDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\CardDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:57:47.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CardDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Models\\DTO\\CardDTO.cs",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Pages\\Models\\DTO\\CardDTO.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Models\\DTO\\CardDTO.cs",
+              "RelativeToolTip": "..\\MobileApp\\Pages\\Models\\DTO\\CardDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T23:10:11.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "BillDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Models\\DTO\\BillDTO.cs",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Pages\\Models\\DTO\\BillDTO.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Models\\DTO\\BillDTO.cs",
+              "RelativeToolTip": "..\\MobileApp\\Pages\\Models\\DTO\\BillDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T23:12:37.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Models\\CardViewModel.cs",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Pages\\Models\\CardViewModel.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Pages\\Models\\CardViewModel.cs",
+              "RelativeToolTip": "..\\MobileApp\\Pages\\Models\\CardViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T22:58:30.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "..\\MobileApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "..\\MobileApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T00:44:21.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "..\\MobileApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\MauiProgram.cs",
+              "RelativeToolTip": "..\\MobileApp\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T22:15:42.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Models\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Models\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Models\\RegisterDTO.cs",
+              "RelativeToolTip": "..\\MobileApp\\Models\\RegisterDTO.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwBMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T21:25:32.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Models\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\Models\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:29:06.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\App.xaml",
+              "RelativeDocumentMoniker": "..\\MobileApp\\App.xaml",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\App.xaml",
+              "RelativeToolTip": "..\\MobileApp\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T20:02:29.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "BankApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\BankApi.csproj",
+              "RelativeDocumentMoniker": "BankApi.csproj",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\BankApi\\BankApi.csproj",
+              "RelativeToolTip": "BankApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-09T19:36:51.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Pages_Cards.xaml.sg.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\AppData\\Local\\Temp\\.vsdbgsrc\\42b444f7117f8550a41dc41952f88e2475a4256e\\Pages_Cards.xaml.sg.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\42b444f7117f8550a41dc41952f88e2475a4256e\\Pages_Cards.xaml.sg.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\AppData\\Local\\Temp\\.vsdbgsrc\\42b444f7117f8550a41dc41952f88e2475a4256e\\Pages_Cards.xaml.sg.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\42b444f7117f8550a41dc41952f88e2475a4256e\\Pages_Cards.xaml.sg.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAtwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T01:12:43.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Microsoft.Maui.Controls.targets",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\8.0.21\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\8.0.21\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets",
+              "ToolTip": "C:\\Users\\Hi-tech\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\8.0.21\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\8.0.21\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets",
+              "ViewState": "AQIAAI0AAAAAAAAAAADgv5sAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-10T23:59:27.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ViewState": "AQIAAOsAAAAAAAAAAAD4v/kAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-10T02:53:10.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\MobileApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Hi-tech\\Documents\\ShyagaProgrammnaya\\GlobalProjects\\MobileApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\MobileApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-09T22:16:19.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Microsoft.NET.TargetFrameworkInference.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAgwF8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-10T08:53:45.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Pages_MainProfile.xaml.sg.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-tech\\AppData\\Local\\Temp\\.vsdbgsrc\\61ecd033d598386df80eb99872165ace195ee7b1\\Pages_MainProfile.xaml.sg.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\61ecd033d598386df80eb99872165ace195ee7b1\\Pages_MainProfile.xaml.sg.cs",
+              "ToolTip": "C:\\Users\\Hi-tech\\AppData\\Local\\Temp\\.vsdbgsrc\\61ecd033d598386df80eb99872165ace195ee7b1\\Pages_MainProfile.xaml.sg.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\61ecd033d598386df80eb99872165ace195ee7b1\\Pages_MainProfile.xaml.sg.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAewC0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T00:42:20.009Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
